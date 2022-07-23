@@ -1,0 +1,16 @@
+{
+	"font_size": 22,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"caret_extra_top": 0.8,
+ 	"caret_extra_bottom": 0.8,
+ 	"caret_extra_width": 1,
+ 	"font_options": ["no_italic"],
+ 	"auto_complete_use_history": true,
+ 	"auto_complete_use_index": false,
+ 	"draw_minimap_border": false,
+ 	"font_face": "Consolas-with-Yahei",
+	"update_check": false,
+}
