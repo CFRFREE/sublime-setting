@@ -4,6 +4,7 @@
 #define P 1000000007
 #define INF 2147483647
 #define INFF 9223372036854775807
+#define all(x) x.begin(),x.end()
 #define pii pair<int,int> 
 #define LL long long
 #define endl '\n'
@@ -28,6 +29,9 @@ void work()
 }
 signed main()
 {
+#ifndef ONLINE_JUDGE
+	freopen("1.in", "r", stdin);
+#endif
 	int T = 1; $1T = read();
 	while ( T-- )
 		work();

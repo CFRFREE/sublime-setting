@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-emplace_back($1);
-]]></content>
-<tabTrigger>emplace</tabTrigger>
-</snippet>

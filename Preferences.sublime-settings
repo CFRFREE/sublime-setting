@@ -13,4 +13,6 @@
  	"draw_minimap_border": false,
  	"font_face": "Consolas-with-Yahei",
 	"update_check": false,
+	"theme": "auto",
+	"color_scheme": "Mariana.sublime-color-scheme",
 }
