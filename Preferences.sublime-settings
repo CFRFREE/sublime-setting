@@ -1,5 +1,5 @@
 {
-	"font_size": 22,
+	"font_size": 21,
 	"ignored_packages":
 	[
 		"Vintage",
@@ -13,6 +13,5 @@
  	"draw_minimap_border": false,
  	"font_face": "Consolas-with-Yahei",
 	"update_check": false,
-	"theme": "auto",
 	"color_scheme": "Mariana.sublime-color-scheme",
 }
