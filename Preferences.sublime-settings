@@ -1,5 +1,5 @@
 {
-	"font_size": 21,
+	"font_size": 20,
 	"ignored_packages":
 	[
 		"Vintage",
@@ -14,4 +14,6 @@
  	"font_face": "Consolas-with-Yahei",
 	"update_check": false,
 	"color_scheme": "Mariana.sublime-color-scheme",
+	"auto_complete_with_fields": false,
+	"close_windows_when_empty": false,
 }
