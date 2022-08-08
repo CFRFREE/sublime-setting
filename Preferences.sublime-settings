@@ -16,4 +16,5 @@
 	"color_scheme": "Mariana.sublime-color-scheme",
 	"auto_complete_with_fields": false,
 	"close_windows_when_empty": false,
+	"save_on_focus_lose":true,
 }
