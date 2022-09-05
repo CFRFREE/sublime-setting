@@ -1,5 +1,5 @@
 {
-	"font_size": 19,
+	"font_size": 17,
 	"ignored_packages":
 	[
 		"Vintage",
@@ -12,9 +12,10 @@
  	"auto_complete_use_index": false,
  	"draw_minimap_border": false,
  	"font_face": "Consolas-with-Yahei",
-	"update_check": false,
+	"update_check": true,
 	"color_scheme": "Mariana.sublime-color-scheme",
 	"auto_complete_with_fields": false,
 	"close_windows_when_empty": false,
 	"save_on_focus_lose":true,
+	"auto_complete_trailing_symbols": true,
 }
